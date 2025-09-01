@@ -20,13 +20,17 @@ You can select a base currency, enter an amount, and convert it into a target cu
 - **Open Exchange Rate API** (Data source)
 
 ---
+## Screenshots
+<img width="1594" height="801" alt="Screenshot 2025-09-01 074801" src="https://github.com/user-attachments/assets/6528abe5-e743-44b4-ae5c-5accac3321c3" />
+
+---
 
 ## 📦 Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/gauravmishra00/Currency-Converter.git
-2. cd Currency-Converter
+2. Navigate to the project folder  \n cd Currency-Converter
 3. Install Dependencies
    npm install
 4. Start the devlopment server
