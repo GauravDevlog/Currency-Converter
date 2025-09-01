@@ -30,9 +30,13 @@ You can select a base currency, enter an amount, and convert it into a target cu
 1. Clone the repository:
    ```bash
    git clone https://github.com/gauravmishra00/Currency-Converter.git
-2. Navigate to the project folder  \n cd Currency-Converter
+2. Navigate to the project folder
+    cd Currency-Converter
+
 3. Install Dependencies
    npm install
 4. Start the devlopment server
    npm run dev
+
+---
 
