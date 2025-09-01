@@ -18,6 +18,7 @@ You can select a base currency, enter an amount, and convert it into a target cu
 - **React** (Frontend)
 - **Tailwind CSS** (Styling)
 - **Open Exchange Rate API** (Data source)
+- **API**   https://open.er-api.com/v6/latest/${currency} 
 
 ---
 ## Screenshots
