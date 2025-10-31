@@ -30,7 +30,7 @@ You can select a base currency, enter an amount, and convert it into a target cu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gauravmishra00/Currency-Converter.git
+   git clone https://github.com/GauravDevlog/Currency-Converter.git
 2. Navigate to the project folder
     cd Currency-Converter
 
